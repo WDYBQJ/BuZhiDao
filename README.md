@@ -12,4 +12,4 @@ git add .
 
 git commit -am "My comments."
 
-git push master master
+git push -u BZD master
