@@ -31,7 +31,6 @@
             android:enabled="true"
             android:exported="true" >
         </service>
-        <uses-library android:name="com.google.android.maps" android:required="true"/>
     </application>
 
 </manifest>
